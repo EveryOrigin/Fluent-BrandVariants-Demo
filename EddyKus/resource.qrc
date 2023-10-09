@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/pic">
+        <file>DeviceLogo.png</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>iconfont.ttf</file>
+    </qresource>
+</RCC>
